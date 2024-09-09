@@ -57,7 +57,7 @@ Bachelor of Science in Mathematics
    
 **Virtual Program Participant @ Bloomberg Market Concept**, London, UK (_Sep 2024_)**  
 
-- Expanded knowledge of financial markets through the Bloomberg Market Concepts program.
+- Actively participating in the BMC program, which is expanding my knowledge of the financial market
 
 ---
 
