@@ -1,6 +1,6 @@
 # About Me
 
-I recently concluded my role as a **Data Science Executive** at Stack Solutions Co, where I applied my passion for data storytelling and continuous learning to transform messy data into clear insights. I collected, analyzed, and interpreted complex datasets, developing comprehensive reports and presentations for various stakeholders. I also designed and implemented dynamic data visualization tools and dashboards, using **Power BI, Python, SQL, and Excel**.
+I recently concluded my role as a **Data Science Executive** at Stack Solutions Co, where I applied my passion for data storytelling and continuous learning to transform messy data into clear insights. I collected, analyzed, and interpreted complex datasets, developing comprehensive reports and presentations for various stakeholders. I also designed and implemented dynamic data visualization tools and dashboards, using **Power BI, Python, MYSQL, and Excel**.
 
 Currently, I am pursuing a **Master's degree in Data Science with Placement** at the University of Hertfordshire, where I continue to enhance my mathematical and analytical skills. I have earned multiple **Statements of Accomplishment from DataCamp**, demonstrating my proficiency in Python fundamentals and data manipulation. My proactive approach to sharing knowledge and accomplishments, particularly on LinkedIn, played a key role in landing my previous position.
 
@@ -47,8 +47,9 @@ _Jan 2024 – Apr 2024_
 ### CM Cakes, Owerri, Nigeria  
 **Business Intelligence Analyst**  
 _Aug 2019 – Dec 2022_  
-- Transformed large datasets into actionable insights through comprehensive reports, interactive dashboards, and analytics workflows.
+- Transformed large datasets into actionable insights through comprehensive reports, interactive dashboards, and analytics workflows, facilitating informed decision-making and strategy formulation.
 - Analyzed internal operations, resulting in a 25% revenue increase through identifying optimization opportunities.
+- Evaluated and applied statistical method to promote and measure data quality, develop insights and extract information using excel.
 
 ### Independent National Electoral Commission (INEC), Owerri, Nigeria  
 **ICT Officer**  
@@ -62,8 +63,10 @@ _Jul 2018 – Jul 2019_
 **University of Hertfordshire**, Hatfield, UK  
 **Student Representative**  
 _Oct 2023 – Present_  
-- Mentored new master's students in Data Science, offering guidance on securing placements.
+- Mentored new master's students in Data Science, offering guidance on securing placements opportunities.
+- Highlighting essential tools and skills for their data science toolkit, while recommending strategies for continued growth in the field.
 - Participated as a student panelist in the validation of the BSc Data Scientist apprenticeship program.
+  
 
 **Bloomberg Market Concept**, London, UK  
 **Virtual Program Participant**  
@@ -77,16 +80,19 @@ _Sep 2024_
 ### Automated GBP/USD Forex Trading Bot Using ML Algorithms  
 _May 2024 – Sep 2024_  
 - Evaluated ML models for the development of a Forex trading bot, enhancing price prediction accuracy.
-- Optimized trading strategies through backtesting, increasing bot performance.
+- Optimized trading strategies through backtesting, enhancing profitability.
+- Increased trading bot performance by refining risk management techniques, achieving strong returns and risk-adjusted metrics.
 
 ### AtliQo Bank Credit Card Launch  
 _Jan 2024 – Mar 2024_  
 - Cleaned and optimized large datasets for customer segmentation, improving marketing strategy by 20%.
+- Enhanced marketing strategy by 20% through customer profiling and outlier detection.
 - Achieved a 30% customer conversion rate through A/B testing for a credit card launch.
 
 ### Business 360 - Brick & Mortar and E-Commerce  
 _Jan 2024 – Apr 2024_  
 - Designed a Power BI dashboard for five departments to visualize sales trends and support data-driven decision-making.
+- Imported data from MYSQL and Excel with over 1 million entries and structured it.
 - Improved the report using DAX studio, reducing storage by 30% and improving performance by 10%.
 
 ---
@@ -108,7 +114,8 @@ _Jan 2024 – Apr 2024_
 - **Microsoft Certified, Azure AI Fundamental** – Apr 2024  
 - **Microsoft Certified, Power BI Data Analyst Associate** – Apr 2024  
 - **Data Analytics Bootcamp and AI Module (Codebasics)** – Jan 2024  
-- **Microsoft Excel, Excel from Beginners to Advanced (Udemy)** – May 2023  
+- **Microsoft Excel, Excel from Beginners to Advanced (Udemy)** – May 2023
+- **Award, Best Supportive Role at Stack Field Solutions Co** – Dec 2023
 
 ---
 
