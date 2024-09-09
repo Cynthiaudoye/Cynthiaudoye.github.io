@@ -1,10 +1,6 @@
 # About Me
 
-I recently concluded my role as a **Data Science Executive** at Stack Solutions Co, where I applied my passion for data storytelling and continuous learning to transform messy data into clear insights. I collected, analyzed, and interpreted complex datasets, developing comprehensive reports and presentations for various stakeholders. I also designed and implemented dynamic data visualization tools and dashboards, using **Power BI, Python, MYSQL, and Excel**.
-
-Currently, I am pursuing a **Master's degree in Data Science with Placement** at the University of Hertfordshire, where I continue to enhance my mathematical and analytical skills. I have earned multiple **Statements of Accomplishment from DataCamp**, demonstrating my proficiency in Python fundamentals and data manipulation. My proactive approach to sharing knowledge and accomplishments, particularly on LinkedIn, played a key role in landing my previous position.
-
-I believe in "learning out loud" and regularly share my journey and insights on LinkedIn. Feel free to connect or follow me for a dose of data science in action!
+I am a data-driven professional with a strong background in financial analysis, data management, and machine learning. I thrive in dynamic environments where I can utilize my skills in data cleaning, statistical modeling, and data visualization to derive actionable insights. With experience in both traditional and cutting-edge technologies like **Python, SQL, Excel, and Power BI**, I am passionate about optimizing processes and driving informed business decisions. I am continuously expanding my expertise in data science and finance, while bringing a detail-oriented, solution-focused approach to every project I take on.
 
 ---
 
