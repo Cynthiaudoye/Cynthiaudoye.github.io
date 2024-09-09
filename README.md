@@ -30,19 +30,19 @@ Bachelor of Science in Mathematics
 
 ## Work Experience
 
-### Stack Field Solutions Co., London, UK  
-**Data Science Analyst**  
-_Apr 2023 – Apr 2024_  
-- Enhanced data efficiency by 25% through implementing a MySQL database, enabling more accurate and faster decision-making.
-- Streamlined data extraction and processing by 30% using Python to optimize workflows from Google Sheets and CRM.
-- Developed and maintained dynamic Power BI and Excel dashboards for real-time performance tracking and actionable insights.
-
 ### OESON, London, UK  
 **Data Scientist - Internship**  
 _Jan 2024 – Apr 2024_  
 - Conducted a comprehensive stock performance analysis of Microsoft, Tesla, and Apple stocks using Excel to create visualizations and identify trends.
 - Built regression models to evaluate the relationship between stock price changes and market returns (S&P 500), aiding investment decision-making.
 - Presented a risk assessment summary, providing strategic insights into stock performance and market positioning.
+
+### Stack Field Solutions Co., London, UK  
+**Data Science Analyst**  
+_Apr 2023 – Apr 2024_  
+- Enhanced data efficiency by 25% through implementing a MySQL database, enabling more accurate and faster decision-making.
+- Streamlined data extraction and processing by 30% using Python to optimize workflows from Google Sheets and CRM.
+- Developed and maintained dynamic Power BI and Excel dashboards for real-time performance tracking and actionable insights.
 
 ### CM Cakes, Owerri, Nigeria  
 **Business Intelligence Analyst**  
@@ -99,7 +99,7 @@ _Jan 2024 – Apr 2024_
 
 ## Skills
 
-- **Advanced Data Analysis**: Python (NumPy, Pandas, Matplotlib), Excel, SQL, Power BI  
+- **Advanced Data Analysis**: Python (NumPy, Pandas, Matplotlib, Seaborn), Excel, SQL, Power BI  
 - **Data-driven Decision Making**: Skilled in extracting insights from complex datasets to inform business strategies  
 - **Technical Proficiency**: Strong foundation in programming, modelling techniques, and cloud computing concepts  
 - **Problem-solving**: Identifying and resolving data validation and reporting issues  
