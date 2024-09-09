@@ -12,7 +12,8 @@ I believe in "learning out loud" and regularly share my journey and insights on 
 - Email: davidcynthia891@gmail.com  
 - Phone: +447393161319  
 - [LinkedIn](https://www.linkedin.com/in/chinenye-cynthia-udoye-data-scientist/)  
-- [GitHub](https://github.com/Cynthiaudoye)  
+- [GitHub](https://github.com/Cynthiaudoye)
+- [Dashboard Portfolio](https://codebasics.io/portfolio/Cynthia-Chinenye-Udoye)
 
 ---
 
