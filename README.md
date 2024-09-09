@@ -27,67 +27,53 @@ Bachelor of Science in Mathematics
 
 ## Work Experience
 
-### OESON, London, UK  
-**Data Scientist - Internship**  
-_Jan 2024 – Apr 2024_  
+**Data Scientist - Internship @ OESON, London, UK (_Jan 2024 – Apr 2024_)**  
 - Conducted a comprehensive stock performance analysis of Microsoft, Tesla, and Apple stocks using Excel to create visualizations and identify trends.
 - Built regression models to evaluate the relationship between stock price changes and market returns (S&P 500), aiding investment decision-making.
 - Presented a risk assessment summary, providing strategic insights into stock performance and market positioning.
 
-### Stack Field Solutions Co., London, UK  
-**Data Science Analyst**  
-_Apr 2023 – Apr 2024_  
+**Data Science Analyst @ Stack Field Solutions Co., London, UK (_Apr 2023 – Apr 2024_)**  
 - Enhanced data efficiency by 25% through implementing a MySQL database, enabling more accurate and faster decision-making.
 - Streamlined data extraction and processing by 30% using Python to optimize workflows from Google Sheets and CRM.
 - Developed and maintained dynamic Power BI and Excel dashboards for real-time performance tracking and actionable insights.
 
-### CM Cakes, Owerri, Nigeria  
-**Business Intelligence Analyst**  
-_Aug 2019 – Dec 2022_  
+**Business Intelligence Analyst @ CM Cakes, Owerri, Nigeria (_Aug 2019 – Dec 2022_)**  
 - Transformed large datasets into actionable insights through comprehensive reports, interactive dashboards, and analytics workflows, facilitating informed decision-making and strategy formulation.
 - Analyzed internal operations, resulting in a 25% revenue increase through identifying optimization opportunities.
 - Evaluated and applied statistical method to promote and measure data quality, develop insights and extract information using excel.
 
-### Independent National Electoral Commission (INEC), Owerri, Nigeria  
-**ICT Officer**  
-_Jul 2018 – Jul 2019_  
+**ICT Officer @ Independent National Electoral Commission (INEC), Owerri, Nigeria (_Jul 2018 – Jul 2019_)**  
+
 - Ensured 100% accuracy in configuring, placing, and securely transmitting election data for transparent and efficient electoral processes.
 
 ---
 
 ## Extra-Curriculars & Volunteering
-
-**University of Hertfordshire**, Hatfield, UK  
-**Student Representative**  
-_Oct 2023 – Present_  
+ 
+**Student Representative @ University of Hertfordshire**, Hatfield, UK (_Oct 2023 – Present_)**   
 - Mentored new master's students in Data Science, offering guidance on securing placements opportunities.
 - Highlighting essential tools and skills for their data science toolkit, while recommending strategies for continued growth in the field.
 - Participated as a student panelist in the validation of the BSc Data Scientist apprenticeship program.
-  
+   
+**Virtual Program Participant @ Bloomberg Market Concept**, London, UK (_Sep 2024_)**  
 
-**Bloomberg Market Concept**, London, UK  
-**Virtual Program Participant**  
-_Sep 2024_  
 - Expanded knowledge of financial markets through the Bloomberg Market Concepts program.
 
 ---
 
 ## Projects
 
-### Automated GBP/USD Forex Trading Bot Using ML Algorithms  
-_May 2024 – Sep 2024_  
+### Automated GBP/USD Forex Trading Bot Using ML Algorithms (_May 2024 – Present)    
 - Evaluated ML models for the development of a Forex trading bot, enhancing price prediction accuracy.
 - Optimized trading strategies through backtesting, enhancing profitability.
 - Increased trading bot performance by refining risk management techniques, achieving strong returns and risk-adjusted metrics.
 
-### AtliQo Bank Credit Card Launch  
-_Jan 2024 – Mar 2024_  
+### AtliQo Bank Credit Card Launch (_Jan 2024 – Mar 2024_)   
 - Cleaned and optimized large datasets for customer segmentation, improving marketing strategy by 20%.
 - Enhanced marketing strategy by 20% through customer profiling and outlier detection.
 - Achieved a 30% customer conversion rate through A/B testing for a credit card launch.
 
-### Business 360 - Brick & Mortar and E-Commerce  
-_Jan 2024 – Apr 2024_  
+### Business 360 - Brick & Mortar and E-Commerce (_Jan 2024 – Apr 2024_)   
 - Designed a Power BI dashboard for five departments to visualize sales trends and support data-driven decision-making.
 - Imported data from MYSQL and Excel with over 1 million entries and structured it.
 - Improved the report using DAX studio, reducing storage by 30% and improving performance by 10%.
