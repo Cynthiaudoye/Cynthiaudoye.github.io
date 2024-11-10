@@ -1,6 +1,6 @@
 # About Me
 
-I am a data-driven professional with a strong background in financial analysis, data management, and machine learning. I thrive in dynamic environments where I can utilize my skills in data cleaning, statistical modeling, and data visualization to derive actionable insights. With experience in both traditional and cutting-edge technologies like **Python, SQL, Excel, and Power BI**, I am passionate about optimizing processes and driving informed business decisions. I am continuously expanding my expertise in data science and finance, while bringing a detail-oriented, solution-focused approach to every project I take on.
+I am a data-driven professional with a strong background in financial analysis, data management, and machine learning. I thrive in dynamic environments where I can utilize my skills in data cleaning, statistical modeling, and data visualization to derive actionable insights. With experience in both traditional and cutting-edge technologies like **Python, SQL, Excel, PySpark, SQLite, MySQL and Power BI**, I am passionate about optimizing processes and driving informed business decisions. I am continuously expanding my expertise in data science and finance, while bringing a detail-oriented, solution-focused approach to every project I take on.
 
 ---
 
