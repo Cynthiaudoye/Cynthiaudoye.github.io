@@ -37,7 +37,7 @@ Bachelor of Science in Mathematics
 - Streamlined data extraction and processing by 30% using Python to optimize workflows from Google Sheets and CRM.
 - Developed and maintained dynamic Power BI and Excel dashboards for real-time performance tracking and actionable insights.
 
-**Business Intelligence Analyst @ CM Cakes, Owerri, Nigeria (_Aug 2019 – Dec 2022_)**  
+**Business Intelligence Analyst @ Grand CM Confectioneries, Owerri, Nigeria (_Aug 2019 – Dec 2022_)**  
 - Transformed large datasets into actionable insights through comprehensive reports, interactive dashboards, and analytics workflows, facilitating informed decision-making and strategy formulation.
 - Analyzed internal operations, resulting in a 25% revenue increase through identifying optimization opportunities.
 - Evaluated and applied statistical method to promote and measure data quality, develop insights and extract information using excel.
