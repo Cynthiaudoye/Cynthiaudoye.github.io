@@ -82,7 +82,7 @@ Bachelor of Science in Mathematics
 
 ## Skills
 
-- **Advanced Data Analysis**: Python (NumPy, Pandas, Matplotlib, Seaborn), Excel, SQL, Power BI  
+- **Advanced Data Analysis**: Python (NumPy, Pandas, Matplotlib, Seaborn), PySpark, SQLite, MySQL, Excel, SQL, Power BI  
 - **Data-driven Decision Making**: Skilled in extracting insights from complex datasets to inform business strategies  
 - **Technical Proficiency**: Strong foundation in programming, modelling techniques, and cloud computing concepts  
 - **Problem-solving**: Identifying and resolving data validation and reporting issues  
